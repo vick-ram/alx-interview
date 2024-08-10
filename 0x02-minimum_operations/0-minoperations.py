@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""0-minoperations module"""
 
 
 def minOperations(n):
